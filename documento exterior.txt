@@ -1,0 +1,3 @@
+
+se borror el mensaje (esto no estaba en el git original) 
+probando comando diff
